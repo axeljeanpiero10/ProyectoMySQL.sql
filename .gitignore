@@ -1,0 +1,12 @@
+# Ignorar archivos temporales y de sistema
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Ignorar carpetas de respaldo o exportaciones
+/export/
+/backups/
